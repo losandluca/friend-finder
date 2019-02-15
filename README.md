@@ -3,7 +3,7 @@ This full-stack site will take in results from your users' surveys, then compare
 
 <hr>
 
-## Technology
+## Technology Used
 * Bootstrap
 * node.js
 * express.js
